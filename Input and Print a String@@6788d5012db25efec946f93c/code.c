@@ -2,6 +2,6 @@
 int main(){
     char word[100];
     scanf("%99s",word);
-    printf("You entered: %s\n",word);
+    printf("You entered: %s",word);
     return 0;
 }
